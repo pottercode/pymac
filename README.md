@@ -7,6 +7,7 @@ A MAC address oriented clipboard manipulator for Python 3.9
 Searches your Windows clipboard for MAC addresses, reformats them as instructed, and overwrites the clipboard with a list of the formatted MAC addresses.
 
 Currently recognizes and can convert between four MAC address formats:
+    
     * Colon-separated MAC (A1:B2:C3:D4:E5:F6)
     * Hyphen-separated MAC (A1-B2-C3-D4-E5-F6)
     * period-separated MAC (a1b2.c3d4.e4f6)
